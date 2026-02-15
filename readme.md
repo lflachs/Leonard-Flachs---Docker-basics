@@ -4,9 +4,7 @@ _By Léonard Flachs_
 
 Hey there, this is a repository to learn Docker.
 
-🚧 This repo is a Work in Progress. 🚧
-
-## Step 01 - The fundemantals 🤓
+## Step 01 - The fundamentals 🤓
 
 In this section, you will learn what is docker and the basics command to pull and run a container.
 
@@ -20,6 +18,6 @@ In this section, we will learn how to create our own images using a dockerfile.
 
 ## Step 03 - Docker-compose 🏗️
 
-In this section, you will see how to use Docker-compose. s
+In this section, you will see how to use Docker-compose.
 
 [Click here to go the section 03](https://github.com/lflachs/docker-tuto/tree/master/step03)
